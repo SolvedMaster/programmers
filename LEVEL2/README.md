@@ -24,7 +24,7 @@
 | 08 K ||[[카카오 인턴] 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)||<!-- 여기 -->|
 | 09 K ||[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)||<!-- 여기 -->|
 | 10 ||[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)||<!-- 여기 -->|
-| 11 ||[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)||<!-- 여기 -->|
+| 11 K ||[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)||<!-- 여기 -->|
 | 12 ||[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)||<!-- 여기 -->|
 | 13 ||[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)||<!-- 여기 -->|
 | 14 ||[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)||<!-- 여기 -->|
