@@ -67,3 +67,9 @@
 | 51 ||[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)||<!-- 여기 -->|
 | 52 ||[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)||<!-- 여기 -->|
 | 53 ||[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)||<!-- 여기 -->|
+| 54 ||[k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)||<!-- 여기 -->|
+| 55 ||[주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)||<!-- 여기 -->|
+| 56 ||[양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342)||<!-- 여기 -->|
+| 57 ||[두 큐 합 같게 만들기](https://programmers.co.kr/learn/courses/30/lessons/118667)||<!-- 여기 -->|
+| 58 ||[이모티콘 할인행사](https://programmers.co.kr/learn/courses/30/lessons/150368)||<!-- 여기 -->|
+| 59 ||[택배 배달과 수거하기](https://programmers.co.kr/learn/courses/30/lessons/150369)||<!-- 여기 -->|
