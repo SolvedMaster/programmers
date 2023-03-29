@@ -4,7 +4,7 @@
 
 | 순번|풀이 날짜|문제 이름|알고리즘 태그|풀이 링크 |
 | :--:|:--:|:--:|:--:|:--:|
-| 01 K |2023.03.29|[[카카오 인턴] 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)||<!-- 여기 -->|
+| 01 K |2023.03.29|[[카카오 인턴] 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)||<a href="https://github.com/97Kzone/CodeTest_practice/blob/main/PG_Level1/%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0.java"><img src="https://avatars.githubusercontent.com/u/76652908?v=4" width="30px"></a>|
 | 02 K ||[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)||<!-- 여기 -->|
 | 03 D ||[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)||<!-- 여기 -->|
 | 04 K ||[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)||<!-- 여기 -->|
