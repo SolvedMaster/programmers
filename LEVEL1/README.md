@@ -8,22 +8,22 @@
 | 01 ||[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>||[바로가기](../solution/LEVEL1/42576)|
 | 02 ||[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 03 ||[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
-| 04 ||[[카카오 인턴] 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
-| 05 ||[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 04 K ||[[카카오 인턴] 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 05 K ||[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 06 ||[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
-| 07 ||[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 07 D ||[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 08 ||[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 09 ||[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 10 ||[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
-| 11 ||[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 11 K ||[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 12 ||[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
-| 13 ||[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 13 K ||[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 14 ||[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 15 ||[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 16 ||[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
-| 17 ||[[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 17 K ||[[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 18 ||[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
-| 19 ||[[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
+| 19 K ||[[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 20 ||[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 21 ||[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 22 ||[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
