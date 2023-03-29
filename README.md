@@ -35,8 +35,6 @@ Programmers 에는 알고리즘 분류가 없습니다.
 - 2023.03.29
   - 카카오 문제 정리 by thdqudgns
 
-**실행한 날짜(log) : 2021/05/08 23:34:07 KST**
-
 
 [TODO]: https://img.shields.io/badge/-TODO-DFFD26
 [DOING]: https://img.shields.io/badge/-DOING-31AE0F
