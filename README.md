@@ -22,7 +22,7 @@ Programmers 에는 알고리즘 분류가 없습니다.
 | 난이도 | 문제집 | 전체 문제 수 | 상태 |
 | :--: |:--: |:--: |:--: |
 | LEVEL1 | [바로 가기](./LEVEL1) | 11 | ![status][TODO] |
-| LEVEL2 | [바로 가기](./LEVEL2) | 54 | ![status][TODO] |
+| LEVEL2 | [바로 가기](./LEVEL2) | 59 | ![status][TODO] |
 | LEVEL3 | [바로 가기](./LEVEL3) | 44 | ![status][TODO] |
 | LEVEL4 | [바로 가기](./LEVEL4) | 21 | ![status][TODO] |
 | LEVEL5 | [바로 가기](./LEVEL5) | 4 | ![status][TODO] |
