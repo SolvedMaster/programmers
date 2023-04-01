@@ -41,14 +41,14 @@
 | 25 ||[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)||<!-- 여기 -->|
 | 26 K ||[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)||<!-- 여기 -->|
 | 27 ||[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)||<!-- 여기 -->|
-| 28 ||[[1차] 프렌즈4블](https://programmers.co.kr/learn/courses/30/lessons/17679)||<!-- 여기 -->|
+| 28 K ||[[1차] 프렌즈4블](https://programmers.co.kr/learn/courses/30/lessons/17679)||<!-- 여기 -->|
 | 29 ||[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)||<!-- 여기 -->|
 | 30 ||[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)||<!-- 여기 -->|
 | 31 ||[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)||<!-- 여기 -->|
 | 32 ||[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)||<!-- 여기 -->|
 | 33 ||[점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980)||<!-- 여기 -->|
 | 34 ||[이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)||<!-- 여기 -->|
-| 35 ||[[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)||<!-- 여기 -->|
+| 35 K ||[[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)||<!-- 여기 -->|
 | 36 ||[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)||<!-- 여기 -->|
 | 37 ||[쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936)||<!-- 여기 -->|
 | 38 ||[방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994)||<!-- 여기 -->|
