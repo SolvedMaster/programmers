@@ -4,6 +4,7 @@
 
 | 순번|추천 문제|문제 이름|솔브드 티어|알고리즘 태그|풀이 링크 |
 | :--:|:--:|:--:|:--:|:--:|:--:|
+| 00 ||[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 00 ||[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 01 ||[[1차] 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
 | 02 ||[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/0.svg"/>|||
