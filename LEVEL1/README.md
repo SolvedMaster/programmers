@@ -23,5 +23,5 @@
 | 08 K ||[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)||<!-- 여기 -->|
 | 09 K ||[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)||<!-- 여기 -->|
 | 10 K ||[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)||<!-- 여기 -->|
-| 11 K ||[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)||<!-- 여기 -->|
+| 11 K ||[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)||<a href="https://github.com/JeongMiiiin/algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/150370.%E2%80%85%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%E2%80%85%EC%88%98%EC%A7%91%E2%80%85%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%E2%80%85%EC%88%98%EC%A7%91%E2%80%85%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.java" width="30px"><img src="https://avatars.githubusercontent.com/u/112797177?v=4" width="30px" style="max-width: 100%;"></a><!-- 여기 -->|
 
