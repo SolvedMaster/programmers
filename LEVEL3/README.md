@@ -4,7 +4,7 @@
 
 | 순번|풀이 날짜|문제 이름|풀이 링크 |
 | :--:|:--:|:--:|:--:|
-| ✅ ||[아이템 줍기](https://programmers.co.kr/learn/courses/30/lessons/87694)|<!-- 여여기기 -->|
+| ✅ ||[아이템 줍기](https://programmers.co.kr/learn/courses/30/lessons/87694)|<a href="https://github.com/JeongMiiiin/algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv3/87694.%E2%80%85%EC%95%84%EC%9D%B4%ED%85%9C%E2%80%85%EC%A4%8D%EA%B8%B0/%EC%95%84%EC%9D%B4%ED%85%9C%E2%80%85%EC%A4%8D%EA%B8%B0.java" width="30px"><img src="https://avatars.githubusercontent.com/u/112797177?v=4" width="30px" style="max-width: 100%;"></a><!-- 여여기기 -->|
 | ✅ ||[퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021)|<!-- 여여기기 -->|
 | ✅ ||[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|<!-- 여여기기 -->|
 | ✅ ||[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|<!-- 여여기기 -->|
