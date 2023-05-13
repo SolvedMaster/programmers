@@ -30,7 +30,7 @@
 | 🟨 ||[표 병합](https://programmers.co.kr/learn/courses/30/lessons/150366)|<!-- 여여기기 -->||
 | 🟨 ||[미로 탈출 명령어](https://programmers.co.kr/learn/courses/30/lessons/150365)|<!-- 여여기기 -->||
 | 🟨 ||[등산코스 정하기](https://programmers.co.kr/learn/courses/30/lessons/118669)|<!-- 여여기기 -->||
-| ✅ ||[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)|<!-- 여여기기 -->||
+| ✅ ||[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)|<a href="https://github.com/JeongMiiiin/algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv3/43105.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95/%EC%A0%95%EC%88%98%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95.java" width="30px"><img src="https://avatars.githubusercontent.com/u/112797177?v=4" width="30px" style="max-width: 100%;"></a><!-- 여여기기 -->||
 | ✅ ||[순위](https://programmers.co.kr/learn/courses/30/lessons/49191)|<!-- 여여기기 -->||
 | ✅ ||[등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)|<!-- 여여기기 -->||
 | ✅ ||[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|<!-- 여여기기 -->||
